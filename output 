@@ -1,0 +1,89 @@
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 1
+Enter Book ID: 101
+Enter Book Name: C++ Programming
+Book added successfully.
+
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 1
+Enter Book ID: 102
+Enter Book Name: Data Structures
+Book added successfully.
+
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 1
+Enter Book ID: 103
+Enter Book Name: Computer Networks
+Book added successfully.
+
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 2
+
+Books in Forward Order:
+Book ID: 101, Book Name: C++ Programming
+Book ID: 102, Book Name: Data Structures
+Book ID: 103, Book Name: Computer Networks
+
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 3
+
+Books in Backward Order:
+Book ID: 103, Book Name: Computer Networks
+Book ID: 102, Book Name: Data Structures
+Book ID: 101, Book Name: C++ Programming
+
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 4
+Enter Book ID to delete: 102
+Book deleted successfully.
+
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 2
+
+Books in Forward Order:
+Book ID: 101, Book Name: C++ Programming
+Book ID: 103, Book Name: Computer Networks
+
+--- Library Book Management ---
+1. Add Book
+2. Display Forward
+3. Display Backward
+4. Delete Book
+5. Exit
+Enter choice: 5
+Program ended.
