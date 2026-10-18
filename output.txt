@@ -1,0 +1,180 @@
+WAREHOUSE STOCK MANAGEMENT SYSTEM USING THREADED BST
+=====================================================
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 105
+Enter Item Name: Keyboard
+Enter Quantity: 25
+
+Stock item inserted successfully!
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 102
+Enter Item Name: Mouse
+Enter Quantity: 40
+
+Stock item inserted successfully!
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 108
+Enter Item Name: Monitor
+Enter Quantity: 15
+
+Stock item inserted successfully!
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 101
+Enter Item Name: USB Cable
+Enter Quantity: 50
+
+Stock item inserted successfully!
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 104
+Enter Item Name: Headphones
+Enter Quantity: 20
+
+Stock item inserted successfully!
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 1
+
+Enter Item ID: 110
+Enter Item Name: Printer
+Enter Quantity: 10
+
+Stock item inserted successfully!
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 3
+
+----------- WAREHOUSE STOCK DETAILS -----------
+
+Item ID: 101
+Item Name: USB Cable
+Quantity: 50
+
+Item ID: 102
+Item Name: Mouse
+Quantity: 40
+
+Item ID: 104
+Item Name: Headphones
+Quantity: 20
+
+Item ID: 105
+Item Name: Keyboard
+Quantity: 25
+
+Item ID: 108
+Item Name: Monitor
+Quantity: 15
+
+Item ID: 110
+Item Name: Printer
+Quantity: 10
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 2
+
+Enter Item ID to delete: 104
+
+Leaf node deleted successfully!
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 3
+
+----------- WAREHOUSE STOCK DETAILS -----------
+
+Item ID: 101
+Item Name: USB Cable
+Quantity: 50
+
+Item ID: 102
+Item Name: Mouse
+Quantity: 40
+
+Item ID: 105
+Item Name: Keyboard
+Quantity: 25
+
+Item ID: 108
+Item Name: Monitor
+Quantity: 15
+
+Item ID: 110
+Item Name: Printer
+Quantity: 10
+
+-----------------------------------------------------
+
+1. Insert Stock Item
+2. Delete Leaf Node
+3. Display Stock
+4. Exit
+
+Enter your choice: 4
+
+Program ended.

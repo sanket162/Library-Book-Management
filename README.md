@@ -1,40 +1,44 @@
-Library Book Management Using Doubly Linked List
+# Warehouse Stock Management System Using Threaded BST
 
-Project Description
+## Introduction
 
-This project is a simple library book management system developed using C++. It uses a Doubly Linked List to store and manage book records.
+This project is a Warehouse Stock Management System developed using C++. It uses a Threaded Binary Search Tree to store and manage stock items. Each item contains an item ID, item name, and quantity.
 
-Problem Statement
+The main purpose of this project is to understand how a Threaded BST works and how it can be used to manage warehouse stock.
 
-To develop a C++ program to manage library books using a Doubly Linked List. The program allows users to add books, display books in forward and backward order, and delete books using their book ID.
+## Features
 
-Features
+- Insert new stock items.
+- Delete a leaf node from the tree.
+- Display stock items in ascending order of item ID.
+- Maintain threads correctly during insertion and deletion.
 
-- Add a new book
-- Display books in forward order
-- Display books in backward order
-- Delete a book using its ID
+## Technologies Used
 
-Concepts Used
+- C++
+- Threaded Binary Search Tree
+- Pointers and Structures
 
-- C++ Programming
-- Structures and Pointers
-- Doubly Linked List
-- Dynamic Memory Allocation using "new"
-- Memory Deallocation using "delete"
-- Insertion, Traversal, and Deletion
+## How It Works
 
-Programming Language
+The program stores stock items in a Threaded Binary Search Tree. Each item is arranged according to its ID. During insertion, the item is placed in the correct position, and the threads are updated. During deletion, only leaf nodes are removed, and the related threads are maintained. The display operation uses inorder successor traversal to show stock items in sorted order.
 
-C++
+## How to Run
 
-How to Run
+1. Download or clone the repository.
+2. Open the project in VS Code.
+3. Compile the C++ program using:
 
-1. Download the repository.
-2. Open "library_management.cpp" in Dev-C++.
-3. Compile and run the program.
-4. Select an operation from the menu.
+   `g++ main.cpp -o warehouse`
 
-Conclusion
+4. Run the program using:
 
-This project demonstrates the use of a Doubly Linked List to manage library book records in C++.
+   `warehouse.exe`
+
+## Conclusion
+
+This project helped me understand the working of a Threaded Binary Search Tree and its use in stock management. It also improved my understanding of pointers, insertion, deletion, and tree traversal in C++.
+
+## Author
+
+C++ Data Structures Project
